@@ -1,3 +1,15 @@
 .padding {
     padding-bottom:2rem;
 }
+
+.fa-code{
+    color:#e54d26;
+}
+
+.fa-css3{
+    color:#563d7c;
+}
+
+.fa-code, .fa-css3 {
+    font-size: 4rem;
+}
